@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.Core", "HelpDesk.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.DataAccess", "HelpDesk.DataAccess\HelpDesk.DataAccess.csproj", "{D798270F-08E1-4A7A-BED3-5BDFF0CB1B2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.Client", "HelpDesk.Client\HelpDesk.Client.csproj", "{24FCF31D-6E83-47EE-BEAF-9E48000870B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D798270F-08E1-4A7A-BED3-5BDFF0CB1B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D798270F-08E1-4A7A-BED3-5BDFF0CB1B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D798270F-08E1-4A7A-BED3-5BDFF0CB1B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FCF31D-6E83-47EE-BEAF-9E48000870B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FCF31D-6E83-47EE-BEAF-9E48000870B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FCF31D-6E83-47EE-BEAF-9E48000870B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FCF31D-6E83-47EE-BEAF-9E48000870B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

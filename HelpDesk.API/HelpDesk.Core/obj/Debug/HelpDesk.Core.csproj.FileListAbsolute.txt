@@ -8,3 +8,13 @@ c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.Cor
 c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.Core\obj\Debug\HelpDesk.Core.csprojResolveAssemblyReference.cache
 c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.Core\obj\Debug\HelpDesk.Core.exe
 c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.Core\obj\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\bin\Debug\HelpDesk.Core.exe.config
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\bin\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\bin\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\obj\Debug\HelpDesk.Core.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\obj\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.Core\obj\Debug\HelpDesk.Core.pdb
