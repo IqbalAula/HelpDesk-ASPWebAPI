@@ -332,6 +332,24 @@
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HelpDesk.BussinessLogic\HelpDesk.BussinessLogic.csproj">
+      <Project>{ccd437ca-af8d-4aff-a4aa-f014d11362e4}</Project>
+      <Name>HelpDesk.BussinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HelpDesk.Common\HelpDesk.Common.csproj">
+      <Project>{e71e7cf7-6109-4b09-89c8-cc037f59e121}</Project>
+      <Name>HelpDesk.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HelpDesk.Core\HelpDesk.Core.csproj">
+      <Project>{41ebb18f-d7ec-4536-a915-fd34c9472c58}</Project>
+      <Name>HelpDesk.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HelpDesk.DataAccess\HelpDesk.DataAccess.csproj">
+      <Project>{d798270f-08e1-4a7a-bed3-5bdff0cb1b2d}</Project>
+      <Name>HelpDesk.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

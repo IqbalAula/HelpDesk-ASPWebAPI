@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interface\IProvienceRepository.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -61,6 +62,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interface\Master\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HelpDesk.Core\HelpDesk.Core.csproj">
+      <Project>{41ebb18f-d7ec-4536-a915-fd34c9472c58}</Project>
+      <Name>HelpDesk.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HelpDesk.DataAccess\HelpDesk.DataAccess.csproj">
+      <Project>{d798270f-08e1-4a7a-bed3-5bdff0cb1b2d}</Project>
+      <Name>HelpDesk.DataAccess</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
