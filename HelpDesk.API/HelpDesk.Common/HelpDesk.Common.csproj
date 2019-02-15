@@ -52,7 +52,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interface\IProvienceRepository.cs" />
+    <Compile Include="Interface\IProvinceRepository.cs" />
+    <Compile Include="Interface\Master\ProvinceRepository.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -60,9 +61,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interface\Master\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\HelpDesk.Core\HelpDesk.Core.csproj">
       <Project>{41ebb18f-d7ec-4536-a915-fd34c9472c58}</Project>

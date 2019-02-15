@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelpDesk.Common.Interface
+namespace HelpDesk.BussinessLogic.Interface
 {
-    public interface IProvienceRepository
+    public interface IProvinceService
     {
         bool Insert(ProvinceParam provinceParam);
         bool Update(int? Id, ProvinceParam provinceParam);
