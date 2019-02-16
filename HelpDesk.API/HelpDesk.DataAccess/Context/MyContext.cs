@@ -13,5 +13,9 @@ namespace HelpDesk.DataAccess.Context
         public MyContext() : base("MyContext") { }
         public DbSet<Province> Proviences { get; set; }
         public DbSet<Regency> Regencies { get; set; }
+        public DbSet<Priority> Priorites { get; set; }
+        public DbSet<Religion> Religions { get; set; }
+        public DbSet<Role> Roles { get; set; }
+
     }
 }
